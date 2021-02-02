@@ -17,3 +17,8 @@ console.log(fun);
 
 let ages = [12, 14, 19];
 console.log(ages[9]);
+
+function doSomething(x, y){
+    console.log(y);
+    }
+doSomething(32);
